@@ -7,9 +7,12 @@
 
 1) Download zip of all files, save to appropriate folder: Downloads
 
-2) Open Terminal
+2) Open Terminal on your computer      
+
   input: cd Downloads
+
   input: cd Connect-Four-master
+  
   input: python connectFour.py
 
 3) Enjoy and Welcome to Connect Four! 
