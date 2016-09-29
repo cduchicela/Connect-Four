@@ -1,5 +1,5 @@
 import random
-from ps14pr3 import * # to use the connect_four and process_move functions
+from connectFour import * # to use the connect_four and process_move functions
 
 
 class RandomPlayer(Player): #ask why col is undefined 

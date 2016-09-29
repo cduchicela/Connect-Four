@@ -1,5 +1,5 @@
-from ps14pr1 import Board
-from ps14pr2 import Player
+from boardClass import Board
+from playerClass import Player
 import random
 
 

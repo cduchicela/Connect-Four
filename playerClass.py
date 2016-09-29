@@ -1,4 +1,4 @@
-from ps14pr1 import Board
+from boardClass import Board
 
 class Player:
     ''' Represents a player of the connect four game. Input either "X" or "O"
