@@ -9,11 +9,11 @@
 
 2) Open Terminal on your computer      
 
-  input: cd Downloads
+  a) input: cd Downloads
 
-  input: cd Connect-Four-master
+  b) input: cd Connect-Four-master
   
-  input: python connectFour.py
+  c) input: python connectFour.py
 
 3) If using terminal, please input numbers with quotation marks as follows: "1" or "2", rather than just 1 or 2. 
 
