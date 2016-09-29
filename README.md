@@ -1,6 +1,6 @@
 # Connect-Four
        Play a game of Connect Four between two specified players,
-       and returns the Board  as it looks at the end of the game.
+       returns the Board as it looks at the end of the game.
        player1 and player2 are objects, one of them should use 'X' checkers and the other should
        use 'O' checkers.
 
