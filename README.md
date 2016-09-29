@@ -15,6 +15,6 @@
   
     c) input: python connectFour.py
 
-3) If using terminal, please input numbers with quotation marks as follows: "1" or "2", rather than just 1 or 2. 
+3) If using Terminal, please input numbers with quotation marks as follows: "1" or "2", rather than just 1 or 2. 
 
 4) Enjoy and Welcome to Connect Four! 
